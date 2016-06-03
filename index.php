@@ -153,7 +153,7 @@
                              </a>
                              <p class="gray-text">This site will display the
                                  <a target="_blank" style="color: orange">Episcopal Church in Navajoland</a>
-                                 website information for the area missions of Utah Region, San Juan Region, and Southeast Region.
+                                 website information for the area missions of the Utah Region, San Juan Region, and Southeast Region.
                                  Also members may login as a user, and are able to post updates.</br>
                                  <a class="btn btn-lg btn-primary" href="https://www.facebook.com/EpiscopalChurchInNavajolandecn"
                                     role="button"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
@@ -363,7 +363,7 @@
                              <h2 class="text-center">Partnership</h2>
 
                              <h3 class="text-center">
-                                 Cultivating Coders - Internship Partner
+                                 Cultivating Coders - Partner
                              </h3>
 
                          </div>
@@ -411,7 +411,7 @@
                              <div class="panel-heading">
                                  <h4 class="panel-title">
                                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-                                        Bureau of Land Management: Fire Driver
+                                        Bureau of Land Management: Fire Truck Driver Operator
                                      </a>
                                  </h4>
                              </div>
@@ -449,7 +449,7 @@
                                  <h4 class="panel-title">
 
                                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-                                        Desert Rose Inn & Cabins: Maintenance Man
+                                        Desert Rose Inn & Cabins: Maintenance Warden
                                      </a>
 
                                  </h4>
@@ -485,7 +485,7 @@
                                  <h4 class="panel-title">
 
                                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-                                        Comb Ridge Coffee & Bistro: Dessert Chef & Dish Washer
+                                        Comb Ridge Coffee & Bistro: Dessert Chef & Hydro Ceramic Technician
                                      </a>
 
                                  </h4>
@@ -537,14 +537,12 @@
                          <label for="InputName">Name</label>
                          <input type="name" class="form-control" id="exampleInputName" placeholder="Name">
                      </div>
+
                      <div class="form-group">
                          <label for="InputEmail">Email address</label>
                          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
                      </div>
-                     <div class="form-group">
-                         <label for="InputTelephone">Telephone</label>
-                         <input type="telephone" class="form-control" id="exampleInputTelephone" placeholder="Telephone">
-                     </div>
+
                      <div class="form-group">
                          <label for="InputMessage">Message</label>
                          <input type="message" class="form-control" id="InputMessage" rows="3" placeholder="Message">
