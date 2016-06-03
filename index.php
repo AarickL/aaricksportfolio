@@ -9,7 +9,9 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <?php require_once("lib/head-utils.php");?>
+        <link href="/lib/css/loadscreen.css" rel="stylesheet">
 
         <link rel="short icon" href="lib/images/devlogo.ico"/>
 
@@ -18,10 +20,6 @@
         <body data-spy="scroll" data-target=".navbar" data-offset="50">
 
          <script src="lib/js/scripts.js"></script>
-
-            <h2>
-
-            </h2>
 
 
          <!-- Navigation Part -->
@@ -112,7 +110,7 @@
 
          </section>
 
-         
+
          <!-- Portfolio Section -->
 
          <section class="portfolio" id="portfolio">
@@ -609,33 +607,13 @@
          
          
          
-         
-         
-         <!-- Bootstrap core JavaScript
-      ================================================== -->
-         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-         <script src="js/bootstrap.js"></script>
 
-         <!-- Angulur -->
-         <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.5/angular.js"></script>
-
-         <!-- Bootstrap JS -->
-         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
-                 integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
-                 crossorigin="anonymous"></script>
-
-         <!-- Our Custom JS -->
-         <script src="./scripts.js"></script>
-        
-        </body>
 
 
 
     <!-- Bootstrap core JavaScript
  ================================================== -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="js/bootstrap.js"></script>
-
     <!-- Angulur -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.5/angular.js"></script>
 
