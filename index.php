@@ -3,11 +3,12 @@
 
     LamemanAarick@gmail.com
 
+    Aarick's WebDev
+
     Date: June 1, 2016
 -->
 
 
-<?php include 'database.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
