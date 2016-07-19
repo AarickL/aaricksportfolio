@@ -1,5 +1,7 @@
 <!--
-    Author Aarick Lameman LamemanAarick@gmail.com
+    Author Aarick Lameman
+
+    LamemanAarick@gmail.com
 
     Date: June 1, 2016
 -->
@@ -103,7 +105,7 @@
                      </br>My clans are translated as my first maternal clan is, "Red People Running Into the Water People",
                      and my paternal clan is, "Red Bottom Jaw Bone People". My maternal grandfathers clan is,
                      "Many Goats People" and my paternal grandfathers clan is, "Red House People". I'm a Junior Web Developer
-                     student at the Cultivating Coders bootcamp.
+                     graduate from the Cultivating Coders Bootcamp program.
                  </h3>
 
              </div>
@@ -129,10 +131,11 @@
                                       src="lib/images/igstudiologo1.jpg" alt="Project 1">
                                  <h2 class="gray-text">Indigenous Game Studio</h2>
                              </a>
-                             <p class="gray-text">This site will display the
+                             <p class="gray-text">
                                  <a target="_blank" style="color: orange">Indigenous Game Studio</a>
-                                 website information about the upcoming game platforms for mobile apps & consoles
-                                 to help educate others about The Indigenous People's culture, heritage, and traditions.
+                                 is here to create game platforms to help educate others about
+                                 The Indigenous People's cultural preservation of language & heritage for the next seven generations.
+                                 Game platforms will be available for mobile apps & game consoles.
                                  </br>
                                  <a class="btn btn-lg btn-primary" href="https://www.facebook.com/indigenousgamestudio"
                                     role="button"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
