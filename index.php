@@ -63,10 +63,10 @@
                                  <span class="glyphicon glyphicon-briefcase"></span> Portfolio | </a>
                          </li>
 
-                         <li>
+                         <!-- <li>
                              <a href="#partners">
                                  <span class="glyphicon glyphicon-globe"></span> Partners | </a>
-                         </li>
+                         </li> -->
 
                          <li>
                              <a href="#experience">
@@ -324,12 +324,12 @@
          <!-- Background Photo Credit: Steven Peter -->
 
 
-         <section class="partners" id="partners">
-             <div class="partners">
+         <!-- <section class="partners" id="partners">
+             <div class="partners"> -->
 
 
                  <!-- Main Jumbotron -->
-                 <div class="container main-content">
+                 <!-- <div class="container main-content">
                      <div class="col-md-12">
                          <h1 class="text-center"><span class="text-white">Partners & Sponsors</span></h1>
                      </div>
@@ -398,7 +398,7 @@
 
 
              </div>
-         </section>
+         </section> -->
 
 
          <!-- Experience -->
