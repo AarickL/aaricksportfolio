@@ -13,10 +13,12 @@
 <html lang="en">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
+
         <?php require_once("lib/head-utils.php");?>
+
         <link href="/lib/css/loadscreen.css" rel="stylesheet">
 
-        <link rel="short icon" href="lib/images/devlogo.ico"/>
+        <link rel="short icon" href="lib/images/nativestarwars.ico"/>
 
     </head>
 
@@ -63,10 +65,10 @@
                                  <span class="glyphicon glyphicon-briefcase"></span> Portfolio | </a>
                          </li>
 
-                         <!-- <li>
+                         <li>
                              <a href="#partners">
                                  <span class="glyphicon glyphicon-globe"></span> Partners | </a>
-                         </li> -->
+                         </li>
 
                          <li>
                              <a href="#experience">
@@ -324,12 +326,12 @@
          <!-- Background Photo Credit: Steven Peter -->
 
 
-         <!-- <section class="partners" id="partners">
-             <div class="partners"> -->
+         <section class="partners" id="partners">
+             <div class="partners">
 
 
                  <!-- Main Jumbotron -->
-                 <!-- <div class="container main-content">
+                  <div class="container main-content">
                      <div class="col-md-12">
                          <h1 class="text-center"><span class="text-white">Partners & Sponsors</span></h1>
                      </div>
@@ -398,7 +400,7 @@
 
 
              </div>
-         </section> . -->
+         </section>
 
 
          <!-- Experience -->
