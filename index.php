@@ -18,7 +18,7 @@
 
         <link href="/lib/css/loadscreen.css" rel="stylesheet">
 
-        <link rel="short icon" href="lib/images/starwarsnative.ico"/>
+        <link rel="short icon" href="lib/images/devlogo.ico"/>
 
     </head>
 
